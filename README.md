@@ -185,34 +185,34 @@ Kelas : SK3B
 
 ![Screenshot from 2024-09-04 01-40-51](https://github.com/user-attachments/assets/2360d12c-21ee-4e13-b7d8-e5f44aa9b141)
 
-41. w  :
+41. w  : Menampilkan informasi tentang pengguna yang sedang masuk ke sistem dan aktivitas mereka.
 
 ![Screenshot from 2024-09-04 05-17-02](https://github.com/user-attachments/assets/f3466c15-3da4-4951-a37a-5a34ea140385)
 
-42. who  :
+42. who  : Menampilkan daftar pengguna yang sedang login ke sistem.
 
 ![Screenshot from 2024-09-04 05-23-04](https://github.com/user-attachments/assets/25dd0f86-fdbf-49c6-aab6-b5c271047597)
 
-43. ps
+43. ps : Menampilkan informasi tentang proses-proses yang sedang berjalan di sistem.
 
 ![Screenshot from 2024-09-04 05-23-41](https://github.com/user-attachments/assets/f367e971-f6d7-46c7-b45b-8077d809ef2d)
 
-44. time
+44. time : Mengukur waktu yang diperlukan untuk mengeksekusi sebuah perintah.
 
 ![Screenshot from 2024-09-04 05-24-11](https://github.com/user-attachments/assets/b60e26a4-5c3f-4d05-b14b-e1b81272b825)
 
 
-45. dig
+45. dig : Alat untuk melakukan query DNS (Domain Name System) dan mendapatkan informasi tentang nama domain atau alamat IP.
 
 ![Screenshot from 2024-09-04 05-27-25](https://github.com/user-attachments/assets/2bd7910d-30b3-4c99-9967-76e5f54358a2)
 
 
-46. top
+46. top : Menampilkan informasi waktu nyata tentang proses-proses yang sedang berjalan di sistem, termasuk penggunaan CPU, memori, dan load average.
 
 ![Screenshot from 2024-09-04 05-24-46](https://github.com/user-attachments/assets/cc568444-e064-4f6f-94a1-49866a24c825)
 
 
-47.uname -a
+47.uname -a : Menampilkan informasi lengkap tentang sistem operasi dan kernel yang sedang berjalan.
 
 ![Screenshot from 2024-09-04 05-29-18](https://github.com/user-attachments/assets/20350fc6-29ee-439d-94be-2526e883b024)
 
