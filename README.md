@@ -216,9 +216,15 @@ Kelas : SK3B
 
 ![Screenshot from 2024-09-04 05-29-18](https://github.com/user-attachments/assets/20350fc6-29ee-439d-94be-2526e883b024)
 
-48.
+48. dir : digunakan dalam sistem operasi Windows (Command Prompt) untuk menampilkan daftar file dan folder dalam direktori saat ini. Ini mirip dengan perintah ls di Unix/Linux.
+
+![dir](https://github.com/user-attachments/assets/7ef13229-8e61-44ca-9357-7e9cfe4a5d1e)
 
 
-49.
-    
-50.
+49. !! : digunakan untuk menjalankan perintah terakhir yang telah dieksekusi sebelumnya. Ini adalah cara yang cepat untuk mengulangi perintah sebelumnya tanpa harus mengetikkannya lagi.
+
+![!!](https://github.com/user-attachments/assets/ccb18f62-b744-4aaf-acde-8e996b0d3394)
+
+50. Clear : digunakan di Unix/Linux (dan juga di terminal macOS) untuk membersihkan layar terminal atau command line, sehingga hanya tampak baris kosong dari bagian bawah layar. Ini sangat berguna untuk menghilangkan tampilan output yang panjang agar lebih mudah membaca hasil yang baru.
+
+![clear](https://github.com/user-attachments/assets/74dc15c1-f9a1-485b-91f5-c24be88a4649)
